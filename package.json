@@ -42,7 +42,7 @@
     "json-schema": "^0.2.3",
     "jwt-decode": "^2.2.0",
     "ngx-infinite-scroll": "^7.1.0",
-    "npm": "^6.9.0",
+    "npm": "^6.14.6",
     "rxjs": "^6.5.2",
     "zone.js": "^0.9.1"
   },
